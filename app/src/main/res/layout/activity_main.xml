@@ -12,6 +12,11 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="8"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/json_alpr"/>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
